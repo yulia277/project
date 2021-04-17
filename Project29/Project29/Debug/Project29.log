@@ -1,0 +1,29 @@
+﻿  源.cpp
+E:\Project29\Project29\源.cpp(71,8): warning C4101: “i”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(173,7): warning C4101: “name”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(172,6): warning C4101: “j”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(262,13): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\Project29\Project29\源.cpp(223,7): warning C4101: “i”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(468,9): warning C4101: “i”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(468,6): warning C4101: “n”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(495,6): warning C4101: “price”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(544,15): warning C4101: “r”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(579,15): warning C4101: “r”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(624,7): warning C4101: “i”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(645,7): warning C4101: “i”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(667,7): warning C4101: “i”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(689,7): warning C4101: “i”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(711,7): warning C4101: “i”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(736,6): warning C4101: “price”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(737,6): warning C4101: “cnt”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(733,6): warning C4101: “number”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(732,12): warning C4101: “q”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(739,6): warning C4101: “i”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(738,6): warning C4101: “day”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(732,17): warning C4101: “x”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(742,12): warning C4101: “r”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(735,7): warning C4101: “date”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(772,7): warning C4101: “temp”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(1004,9): warning C4101: “i”: 未引用的局部变量
+E:\Project29\Project29\源.cpp(1004,6): warning C4101: “n”: 未引用的局部变量
+  Project29.vcxproj -> E:\Project29\Debug\Project29.exe
